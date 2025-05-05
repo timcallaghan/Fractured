@@ -1,0 +1,2 @@
+# Fractured
+Mandlebrott fractal generator
